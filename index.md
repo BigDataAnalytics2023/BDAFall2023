@@ -6,12 +6,18 @@
 		<li><b>Prof. Roozbeh Haghnazar</b></li>
 		<li><a href="mailto:roozbeh@gwu.edu">roozbeh@gwu.edu</a></li>
 		<li>Office Hours: Will be announced, check #office-hours</li>
-		<li>Section 10 & 11</li>
+		<li>CSCI 6444 & 4907</li>
 	</ul>
 	</div>
 </div></div>
 
-> This course will be an in-depth study of the algorithmic and implementation challenges in building large scale distributed applications. Topics include distributed coordination, scheduling, consistency issues, and fault tolerance algorithms. The course will cover how fundamental distributed systems concepts are applied to cloud computing environments. The course will mix algorithmic concepts and practical implementations; substantial programming experience is required.
+> In this Big Data and Analytics course at George Washington University, students will embark on an
+interdisciplinary journey to unlock the potential of large-scale data sets. Leveraging cutting-edge tools
+and methodologies, the course covers the complete data lifecycle, from data acquisition and storage
+to analysis and visualization. Designed to equip students with both theoretical knowledge and
+practical skills, the course delves into real-world applications, ranging from business decision-making
+to scientific research. With an emphasis on critical thinking and collaboration, students will leave the
+course prepared to translate complex data into actionable insights.
 
 
 
@@ -19,12 +25,12 @@
 ## Announcements ##
 - We will make decision about the exams in the first session
 - The [Final Project](./project/) Milestones will be announced.
-- If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56)
+<!-- - If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56) -->
 - Check the [Syllabus](syllabus/) for more info.
-- Both sections 80 and 81 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
+<!-- - Both sections 80 and 81 of CSCI 6421 will meet together *as one class*. You can register for either section with no difference. 
 - You can use use Python and Go to get your projects and assignments done.
-- We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week. 
-- We use [Slack](https://distributedsystem2023.slack.com) to communicate and discuss about the topic, assignments and project.
+- We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week.  -->
+- We use [Slack](bigdatafall2023.slack.com) to communicate and discuss about the topic, assignments and project.
 
 
 
@@ -43,12 +49,12 @@ All deadlines are 11:59PM Eastern Time
 		</tr>
 	</thead>
 	<tr>
-		<td style="width:20%">
+		<td style="width:35%">
 			<b>Introduction to Big Data</b>
 			<br>08/28/2023
 		</td>
 		<td>
-			<a href="./slides/Big Data Fall 2023 - Session 1- Introduction">Lecture Slides</a> -- 
+			<a href="./slides/Big Data Fall 2023 - Session 1- Introduction.pdf">Lecture Slides</a> -- 
 			Please read <a href="project/">Final Project Instruction and Milestones</a>
 		</td>
 	</tr>
@@ -96,11 +102,11 @@ All deadlines are 11:59PM Eastern Time
 	</tr>
 	<tr>
 		<td>
-			<b>Cloud Computing and Big data Platforms and services</b>
+			<b>Cloud Computing and Big Data Platforms and Services</b>
 			<br>9/25/2023
 		</td>
 		<td>
-			<a href="./slides/Big Data Fall 2023 - Session 4- Cloud Computing and Big Data Platforms">Lecture Slides </a>
+			<a href="./slides/Big Data Fall 2023 - Session 4- Cloud Computing and Big Data Platforms.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -175,7 +181,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			Assignment 2, Final Project System Design Due (UML Design)
+			Assignment 2  |  Final Project System Design Due (UML Design)
 		</td>
 	</tr>
 	<tr>
@@ -196,7 +202,7 @@ All deadlines are 11:59PM Eastern Time
 	</tr>
 	<tr>
 		<td>
-			<b>Advanced-Data Analysis Techniques </b>
+			<b>Advanced Data Analysis Techniques </b>
 			<br>11/06/2023
 		</td>
 		<td>
@@ -214,23 +220,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Machine Learning and Big Data </b>
-			<br>11/13/2023
-		</td>
-		<td>
-			<a href="">Lecture Slides </a>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:right">
-			<i>Tasks:</i>
-		</td> 
-		<td>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<b>Machine Learning and Big Data </b>
-			<br>11/27/2023
+			<br>11/13/2023 - 11/27/2023
 		</td>
 		<td>
 			<a href="">Lecture Slides </a>
@@ -246,7 +236,7 @@ All deadlines are 11:59PM Eastern Time
 	<tr>
 		<td>
 			<b>Data Visualization Tools  </b>
-			<br>12/04/2023
+			<br>
 		</td>
 		<td>
 			<a href="">Lecture Slides </a>
