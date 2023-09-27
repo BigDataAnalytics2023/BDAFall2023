@@ -18,28 +18,50 @@ permalink: /syllabus/
   * Undergraduate Operating Systems
   * Strong programming skills
 
-**Website:** [https://gwdistsys2023.github.io/DistributedSystem/](https://gwdistsys2023.github.io/DistributedSystem/)
+**Website:** [https://bigdataanalytics2023.github.io/BDAFall2023/syllabus/](https://bigdataanalytics2023.github.io/BDAFall2023/syllabus/)
 
 
 ### Course Description
 
-This course will be an in-depth study of the algorithmic and implementation challenges in building large scale distributed applications. Topics include distributed coordination, scheduling, consistency issues, and fault tolerance algorithms. The course will cover how fundamental distributed systems concepts are applied to cloud computing environments. The course will mix algorithmic concepts and practical implementations; substantial programming experience is required.
+In this Big Data and Analytics course at George Washington University, students will embark on an
+interdisciplinary journey to unlock the potential of large-scale data sets. Leveraging cutting-edge tools
+and methodologies, the course covers the complete data lifecycle, from data acquisition and storage
+to analysis and visualization. Designed to equip students with both theoretical knowledge and
+practical skills, the course delves into real-world applications, ranging from business decision-making
+to scientific research. With an emphasis on critical thinking and collaboration, students will leave the
+course prepared to translate complex data into actionable insights.
 
 ### Learning outcomes
 As a result of completing this course, students will be able to:
 
-1. Design distributed architectures that are scalable and efficient 
-2. Build distributed systems that are correct and reliable despite network delays and failures
-3. Recognize and overcome the key challenges in implementing distributed systems
-4. Analyze the performance of different distributed system designs
+1. Data Comprehension: Equip students with the skills to identify, interpret, and analyze large
+datasets, understanding their structure, limitations, and potential uses.
+2. Tool Proficiency: Familiarize students with leading big data tools and technologies, such as
+Hadoop, S3 Bucket, and various data storage solutions.
+3. Analytical Methods: Introduce key algorithms and statistical methods essential for data
+analysis, including machine learning techniques and predictive analytics.
+4. Data Ethics: Instill a strong understanding of ethical considerations in data collection, storage,
+and analysis, including issues of privacy, bias, and data integrity.
+5. Real-world Applications: Engage students in case studies and projects that simulate real-world
+challenges, thereby bridging the gap between theory and practice.
+6. Collaborative Skills: Promote teamwork and interdisciplinary thinking through group projects
+and discussions, preparing students for collaborative roles in a professional setting.
+7. Communication: Develop students’ ability to effectively convey their findings, both written and
+orally and to translate complex data analytics into understandable insights for a broader
+audience.
+8. Critical Thinking: Encourage students to think critically about data, questioning its sources,
+relevance, and potential impacts when making analytical decisions.
 
 ### Direct and Independent Instruction Time
 
 The course will include 2.5 hours of direct instruction each week. The lecture period will typically be split between live lecture, discussion, and in-class exercises. Asynchronous options will be available for students unable to attend lectures live. Students are expected to spend a minimum of five hours on independent learning per week.
 
-### Textbook
-Students do not need to purchase a textbook for this class. The instructors may assign supplementary readings from Distributed Systems 3rd edition by Marteen van Steen and Andrew Tanenbaum, which is available for free at: [https://www.distributed-systems.net/index.php/books/ds3/](https://www.distributed-systems.net/index.php/books/ds3/)
+### Course References
+<!-- Students do not need to purchase a textbook for this class. The instructors may assign supplementary readings from Distributed Systems 3rd edition by Marteen van Steen and Andrew Tanenbaum, which is available for free at: [https://www.distributed-systems.net/index.php/books/ds3/](https://www.distributed-systems.net/index.php/books/ds3/) -->
 
+1. Rampolla, M.L. 2014. A Short Guide to Writing in History, 9th Ed. St. Martin’s Press 0312403577
+or later
+2. <a href = "https://www.amazon.com/Pocket-Guide-Writing-History/dp/1319113028">https://www.amazon.com/Pocket-Guide-Writing-History/dp/1319113028 </a>- about $33 new, but there may be used versions.
 
 ### Schedule
 (Subject to small changes, see home page for updates)
@@ -58,11 +80,13 @@ Students do not need to purchase a textbook for this class. The instructors may 
 
 
 ### Grading
-  * Programming Assignments (30%) 
-  * Final project (70%)
+  * Programming Assignments (35%)
+  * Quizzes (10%) 
+  * Final project (45%)
+  * Class Participation (10%)
 
 ### Assignments
-We plan to have four programming assignments to help students learn how to deploy real distributed systems concepts in practice. Some programming assignments will be done individually, meaning students *may not* share any code with other students. In group projects, all students are expected to contribute equally.
+We plan to have three programming assignments to help students learn how to deploy real Big Data System concepts in practice. Some programming assignments will be done individually, meaning students *may not* share any code with other students. In group projects, all students are expected to contribute equally.
 
 ### Project
 In the second half of the semester, students will work on a group project. Project proposals will need to be approved by the instructors and students will need to submit Milestone reports on a regular basis. Instead of a final exam, students will submit a final report and video presentation describing their project.

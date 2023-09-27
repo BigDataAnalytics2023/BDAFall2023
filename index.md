@@ -27,10 +27,9 @@ course prepared to translate complex data into actionable insights.
 - The [Final Project](./project/) Milestones will be announced.
 <!-- - If you have feedback for us, please [fill out this anonymous form!](https://forms.gle/RtEpSeaBDusf5gs56) -->
 - Check the [Syllabus](syllabus/) for more info.
-<!-- - Both CSCI 6444 and CSCI 4907 will meet together *as one class*. 
-You can register for either section with no difference. 
-- You can use use Python and Go to get your projects and assignments done.
-- We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week.  -->
+<!-- - Both CSCI 6444 and CSCI 4907 will meet together *as one class*. You can register for either section with no difference.  -->
+<!-- - You can use use Python and Go to get your projects and assignments done. -->
+<!-- - We will use Distributed Systems 3rd edition (https://www.distributed-systems.net/index.php/books/ds3/) as the main reference. Also there are additional papers which are published in high ranked journals that you can find them in the slides each week.  -->
 - We use [Slack](bigdatafall2023.slack.com) to communicate and discuss about the topic, assignments and project.
 
 
@@ -64,7 +63,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="https://join.slack.com/t/bigdatafall2023/shared_invite/zt-23ce88sf5-k1UIrbBeyf1mV3b9czm4~w">Join Slack</a> today! -- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28 
+			<a href="https://join.slack.com/t/bigdatafall2023/shared_invite/zt-23ce88sf5-k1UIrbBeyf1mV3b9czm4~w">Join Slack</a> today! 
+			 <!-- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28  -->
 		</td>
 	</tr>
 	<tr>
@@ -153,7 +153,7 @@ All deadlines are 11:59PM Eastern Time
 	</tr>
 	<tr>
 		<td>
-			<b>Invited Lecturer – Advanced ML Use Cases -</b>
+			<b>Invited Lecturer  Advanced ML Use Cases</b>
 			<br>10/16/2023
 		</td>
 		<td>
