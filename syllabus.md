@@ -88,8 +88,26 @@ or later
 ### Assignments
 We plan to have three programming assignments to help students learn how to deploy real Big Data System concepts in practice. Some programming assignments will be done individually, meaning students *may not* share any code with other students. In group projects, all students are expected to contribute equally.
 
-### Project
+### Programming Load
+Students can use a wide range of languages such as C#, Java, Python, etc. to write code for assignments.
+Also, the course will make use of several cloud services that typically involve Linux – you should be
+familiar with the command line and basic Linux administration.
+
+# Quizzes and Exams
+Some weeks there will be a quiz based on the taught topics. 
+
+### Final Project
+Final projects can be done in small groups. Students will be required to design, implement and assess a
+cloud-based and distributed application.
+
 In the second half of the semester, students will work on a group project. Project proposals will need to be approved by the instructors and students will need to submit Milestone reports on a regular basis. Instead of a final exam, students will submit a final report and video presentation describing their project.
+
+### Research Paper Report
+Students will choose a topic related to the distributed system, algorithm, cloud computing and research
+for reports, which can be presented in a technical report or conference paper format. Students are
+required to obtain the instructor’s approval of the topic before beginning research. There will be an
+extra-credit opportunity for those who are interested in writing a conference paper and submit it to
+raise a final grade.
 
 ### Lecture Preparation and Participation (Bonus)
 
