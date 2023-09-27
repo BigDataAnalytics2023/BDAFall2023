@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "CSCI 6444 Big Data and Analytics - Fall 2023"
+title: "CSCI 6444 Introduction to Big Data and Analytics - Fall 2023"
 email: roozbeh@gwu.edu
 author: Roozbeh Haghnazar
 description: > # this means to ignore newlines until "baseurl:"
