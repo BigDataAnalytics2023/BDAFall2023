@@ -39,16 +39,16 @@ All deadlines are 11:59PM Eastern Time
 <table>
 	<thead>
 		<tr>
-			<th style="text-align:center" colspan="2">Part 1: Building Blocks</th>
+			<th style="text-align:center" colspan="2">Schedule</th>
 		</tr>
 	</thead>
 	<tr>
 		<td style="width:20%">
-			<b>Overview</b>
-			<br>1/19/2023
+			<b>Introduction to Big Data</b>
+			<br>08/28/2023
 		</td>
 		<td>
-			<a href="./slides/1-Introduction.pdf">Lecture Slides</a> -- 
+			<a href="./slides/Big Data Fall 2023 - Session 1- Introduction">Lecture Slides</a> -- 
 			Please read <a href="project/">Final Project Instruction and Milestones</a>
 		</td>
 	</tr>
@@ -57,33 +57,16 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="https://distributedsystem2023.slack.com">Join Slack</a> today! -- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28 
+			<a href="https://join.slack.com/t/bigdatafall2023/shared_invite/zt-23ce88sf5-k1UIrbBeyf1mV3b9czm4~w">Join Slack</a> today! -- <a href="https://forms.gle/J7RMWejbaiRe1mkn7">Student Survey</a> due Monday 01/28 
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<b>Scalable Execution</b>
-			<br>1/26/2023
+			<b>Types of Data and Data Collection</b>
+			<br>9/11/2023
 		</td>
 		<td>
-			<a href="./slides/2- Processes Threads VMs Containers.pdf">Lecture Slides </a>
-		</td>
-	</tr>
-	<tr>
-		<td style="text-align:right">
-			<i>Tasks:</i>
-		</td> 
-		<td>
-			<a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 04/06
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<b>Communication</b>
-			<br>2/02/2023
-		</td>
-		<td>
-			<a href="./slides/3-Communication.pdf">Lecture Slides </a>
+			<a href="./slides/Big Data Fall 2023 - Session 2- Types of Data and Data Collection.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -91,16 +74,16 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.pdf">Readings in Chapters 3, 4</a> -- Read <a href="http://research.google.com/archive/mapreduce-osdi04.pdf">MapReduce paper</a>
+			<!-- <a href="./readings.html">Readings in Chapters 1, 3</a> -- Watch <a href="https://gwu.box.com/s/uykp9ouz6fqc8d3psmehq46swmn7i4gm">Azure HWaaS Video </a> -- <a href="hw1/"> HW1: Parallel Sum </a> due 04/06 -->
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<b>Architectures</b>
-			<br>2/09/2023
+			<b>Big Data Storage and Databases</b>
+			<br>9/18/2023
 		</td>
 		<td>
-			<a href="./slides/4-Architectures.pdf">Lecture Slides </a>
+			<a href="./slides/Big Data Fall 2023 - Session 3- Big Data Storage and Databases.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -108,30 +91,50 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 2</a>  
+			<!-- <b></b> -->
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<b>Resource Management</b>
-			<br>2/16/2023
+			<b>Cloud Computing and Big data Platforms and services</b>
+			<br>9/25/2023
 		</td>
 		<td>
-			<a href="./slides/5-Scheduling and LB.pdf">Lecture Slides </a>
+			<a href="./slides/Big Data Fall 2023 - Session 4- Cloud Computing and Big Data Platforms">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
 		<td style="text-align:right">
 			<i>Tasks:</i>
+		</td> 
+		<td>
+			Assignment 1 – Final Project Topic Definition Due and Team creation
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Graph Data and Analysis</b>
+			<br>10/02/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td>
+		<td>
+		   Final Project Literature Review Due
 		</td> 	
 	</tr>
 	<tr>
 		<td>
-			<b>Resource Management 2</b>
-			<br>2/23/2023
+			<b>Descriptive and Inferential Data Analysis</b>
+			<br>10/09/2023
 		</td>
 		<td>
-			<a href="./slides/6-Migration.pdf">Lecture Slides </a>
+			<a href="">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
@@ -139,11 +142,145 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td> 
 		<td>
-			<!-- <a href="hw2/">HW2: Map Reduce</a> -10 points by 10/8 -- <a href="https://forms.gle/JreBDrJz2LVfX8A8A">Partner Feedback Form</a> -->
 		</td>
 	</tr>
-</table>
+	<tr>
+		<td>
+			<b>Invited Lecturer – Advanced ML Use Cases -</b>
+			<br>10/16/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+			Assignment 1 Due
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Big Data on Cloud</b>
+			<br>10/23/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+			Assignment 2, Final Project System Design Due (UML Design)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Data Preprocessing</b>
+			<br>10/30/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Advanced-Data Analysis Techniques </b>
+			<br>11/06/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		 Assignment 2 Due
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Machine Learning and Big Data </b>
+			<br>11/13/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Machine Learning and Big Data </b>
+			<br>11/27/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Data Visualization Tools  </b>
+			<br>12/04/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		Assignment 3 (Optional)
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<b>Data Visualization Tools  </b>
+			<br>12/11/2023
+		</td>
+		<td>
+			<a href="">Lecture Slides </a>
+		</td>
+	</tr>
+	<tr>
+		<td style="text-align:right">
+			<i>Tasks:</i>
+		</td> 
+		<td>
+		Final project due (12/15/2023)
+		</td>
+	</tr>
+	
 
+</table>
+<!-- 
 <table>
 	<thead>
 		<tr>
@@ -198,7 +335,7 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<a href="./readings.pdf">Readings in Chapter 8</a> <!-- -- <a href="/project/#milestone-2-literature-review">Milestone 2: Literature Review</a> - 10/29 -->
+			<a href="./readings.pdf">Readings in Chapter 8</a> -- <a href="/project/#milestone-2-literature-review">Milestone 2: Literature Review</a> - 10/29
 		</td>
 	</tr>
 	<tr>
@@ -207,7 +344,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>3/30/2023
 		</td>
 		<td>
-			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 04/30 <!-- -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a> -->
+			<a href="./slides/10-Consistency.pdf">Lecture Slides </a>   <a href="hw2/">HW2: Map Reduce</a> due 04/30 -- <a href="slides/10-consistency-problems.pdf">Consistency Problems Worksheet</a>
 		</td>
 	</tr>
 	<tr>
@@ -218,7 +355,7 @@ All deadlines are 11:59PM Eastern Time
 			<a href="./readings.pdf">Readings in Chapter 7</a> -- <a href="./project/#milestone-3-design-document">Milestone 3: Design Document</a> 
 		</td>
 	</tr>
-	<!--<tr>
+	<tr>
 		<td>
 			<b>Midterm Exam</b>
 			<br>--------</td>
@@ -233,10 +370,10 @@ All deadlines are 11:59PM Eastern Time
 		<td>
 			Study!
 		</td>
-	</tr>-->
-</table>
+	</tr>
+</table> -->
 
-<table>
+<!-- <table>
 	<thead>
 		<tr>
 			<th style="text-align:center" colspan="2">Part 3: Distributed Systems in Practice</th>
@@ -283,9 +420,8 @@ All deadlines are 11:59PM Eastern Time
 			<i>Tasks:</i>
 		</td>
 		<td>
-			<!-- <a href="/project/#milestone-4-final-report">Milestone 4: Final Report</a> - 12/14 -- <a href="/hw3/">Bonus HW3: Leader Election</a> - 12/10-->
 		</td>
 	</tr>
-</table>
+</table> -->
 
 </div>
